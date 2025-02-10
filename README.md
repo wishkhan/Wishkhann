@@ -1,4 +1,4 @@
-![logo]("banner2.png")
+![logo](https://github.com/wishkhan/Wishkhann/blob/main/githubb.html)
 
 <h1 align="center">Hi 👋, I'm wishkhan</h1>
 <h3 align="center">A passionate software engineer from pakistan</h3>
